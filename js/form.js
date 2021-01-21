@@ -12,3 +12,9 @@ pwdvisibility.addEventListener('click', function () {
     }
     password =! password;
 });
+
+
+function myFunction() {
+    document.getElementById("myForm").submit();
+   
+};
